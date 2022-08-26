@@ -1,6 +1,5 @@
 My first readme
 0x01-git
 bash
-c
-js
-up_to_date
+README FILE UPDATED
+README.md, up_to_date
